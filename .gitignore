@@ -1,0 +1,6 @@
+/.vs
+/*.stash
+/*.bat
+/*vcxproj*
+/gen
+/*.user
